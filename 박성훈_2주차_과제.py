@@ -57,6 +57,6 @@ def calc():
     print("두 수의 합 : ",a+b)
     print("두 수의 차 : ",abs(a-b))
     print("두 수의 곱 : ",a*b)
-    print("두 수의 몫 : ",a%b)
+    print("두 수의 몫 : ",a//b)
 
 #calc()
